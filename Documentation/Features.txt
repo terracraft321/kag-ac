@@ -1,0 +1,40 @@
+Assassin / Modified Knight
+
+Weaponry:
+Grappling Hook
+- Dagger/Silhouette
+- Smoke Bomb
+
+Structure:
+- Upgrades -/- Armor/HP
+ (scrolls?)
+
+Methods of Travel:
+Underground Tunnels
+Horse
+
+Civilian/ Builder
+
+Can change class.
+Build structures.
+
+Buildings
+- Inn
+- Barracks
+
+
+
+
+
+
+
+
+Naval Warfare;
+Ships
+- Storage Compartment
+- Cannons
+
+
+-- New Cargo
+- Sugar
+- Rum
